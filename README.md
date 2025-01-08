@@ -10,8 +10,10 @@
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vansh-tanwar-573862130)
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github)](https://github.com/vanshtanwarr)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=aboutdotme)](https://linktr.ee/vanshtanwar)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vanshhtanwar)
+
+
 
 ---
 
