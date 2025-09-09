@@ -2,7 +2,6 @@
 # Data Analyst
 
 🎓 Graduated from **JIMS**  
-📖 Pursuing **Data Science with Machine Learning**  
 🌟 **5-star Python and SQL Programmer** on HackerRank  
 💻 Lifelong Learner📚 Tech Explorer 🧑🏻‍💻
 
