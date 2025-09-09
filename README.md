@@ -1,7 +1,7 @@
 # Hi 👋 I'm Vansh Tanwar
 # Data Analyst
 
-🎓 Graduated from **JIMS**  
+🎓 BCA Graduated from **JIMS**  
 🌟 **5-star Python and SQL Programmer** on HackerRank  
 💻 Lifelong Learner📚 Tech Explorer 🧑🏻‍💻
 
